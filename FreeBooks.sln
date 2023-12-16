@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebBook", "WebBook\WebBook.csproj", "{D0FA548B-8D57-47C1-85CB-6A80B6928EDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domin", "Domin\Domin.csproj", "{17956874-86CE-4BE9-9F24-BB907E946F1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infarstuructre", "Infarstuructre\Infarstuructre.csproj", "{94016CD5-BEED-4230-87FC-FFA29F51292A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0FA548B-8D57-47C1-85CB-6A80B6928EDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0FA548B-8D57-47C1-85CB-6A80B6928EDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0FA548B-8D57-47C1-85CB-6A80B6928EDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0FA548B-8D57-47C1-85CB-6A80B6928EDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17956874-86CE-4BE9-9F24-BB907E946F1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17956874-86CE-4BE9-9F24-BB907E946F1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17956874-86CE-4BE9-9F24-BB907E946F1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17956874-86CE-4BE9-9F24-BB907E946F1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94016CD5-BEED-4230-87FC-FFA29F51292A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94016CD5-BEED-4230-87FC-FFA29F51292A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94016CD5-BEED-4230-87FC-FFA29F51292A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94016CD5-BEED-4230-87FC-FFA29F51292A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A8A097C-62F5-4DEE-A13B-1B33BA0190B0}
+	EndGlobalSection
+EndGlobal
